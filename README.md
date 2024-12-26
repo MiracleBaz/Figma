@@ -29,6 +29,85 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
+```
+  <div class="text-0-1-0">SAVEETHA <br />FOOD FEST</div>
+  <img
+    src="data:image/png"
+  /><svg
+    width="225"
+    height="68"
+    viewBox="0 0 225 68"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <rect
+      width="225"
+      height="68"
+      rx="30"
+      fill="url(#paint0_linear_2_19)"
+    ></rect>
+    <defs>
+      <linearGradient
+        id="paint0_linear_2_19"
+        x1="0"
+        y1="34"
+        x2="225"
+        y2="34"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#60AAEF"></stop>
+        <stop offset="1" stop-color="#376289"></stop>
+      </linearGradient>
+    </defs></svg
+  ><svg
+    width="225"
+    height="68"
+    viewBox="0 0 225 68"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <rect
+      width="225"
+      height="68"
+      rx="30"
+      fill="url(#paint0_linear_2_20)"
+    ></rect>
+    <defs>
+      <linearGradient
+        id="paint0_linear_2_20"
+        x1="0"
+        y1="34"
+        x2="225"
+        y2="34"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#60AAEF"></stop>
+        <stop offset="1" stop-color="#376289"></stop>
+      </linearGradient>
+    </defs>
+  </svg>
+  <div class="text-0-1-5">Pass</div>
+  <div class="text-0-1-6">ID</div>
+</div>
+
+<div class="container--0-">
+  <img
+    src="data:image/png"
+  />
+</div>
+
+<div class="container--0-">
+  <div class="text-0-1-0">CONTACT FOR MORE INFORMATION<br />23445602</div>
+  <img
+    src="data:image/png"
+  />
+</div>
+```
 # OUTPUT:
+
+![alt text](exp8.png) 
+![alt text](<exp8 3.png>) 
+![alt text](<exp8 2.png>) 
+![alt text](<exp8 1.png>)
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
